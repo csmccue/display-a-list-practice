@@ -98,11 +98,31 @@ footer {
   }
 
 .grocery-item {
-    font-size: 1.5rem;
-    font-weight: bold;
+    background-color: red;
+}
+.ship-item {
+    background-color: blue;
+}
+.cars-item {
+    background-color: purple;
+}
+.singer-item {
+    background-color: green;
 }
 
+/* .grocery-item {
+    font-size: 1rem;
+    font-weight: bold;
+}
 .ship-item h2 {
     font-size: 1rem;
     font-weight: bold;
 }
+.singer-item h2 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+.cars-item h2 {
+    font-size: 1rem;
+    font-weight: bold;
+} */

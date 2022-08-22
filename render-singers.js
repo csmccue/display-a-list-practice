@@ -17,7 +17,7 @@ export function renderSingers(item) {
         const recordsEl = document.createElement('h2');
         recordsEl.textContent = thing.records;  
 
-        div.classList.add('ship-item');
+        div.classList.add('singer-item');
         div.append(NameEl, songsEl, yearEl, countryEl, recordsEl);   
     }
     return div;
