@@ -13,8 +13,8 @@ There are only so many things we do in an app.
 1.  Goal: render 4 separate lists of things to the same index.html file. Minimally,
     *   one list should be a list of string, (grocery list)
     *   one should be a list of simple objects, (ships)
-    *   one should be a list of objects where one property is a nested object, (no idae)
-    *   and one should be a list of objects where one property is an array. (no idea)
+    *   one should be a list of objects where one property is a nested object, (countries)
+    *   and one should be a list of objects where one property is an array. (rappers)
     *   A a stretch goal, feel free to make all of them arrays of deep objects (with array and nested object properties).
 2.  Start with the [list practice template repo](https://github.com/alchemycodelab/display-a-list-practice).
 3.  Repeat the following process 4 times, with 4 different domains, all in the same template:
